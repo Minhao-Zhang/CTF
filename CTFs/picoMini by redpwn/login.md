@@ -6,6 +6,7 @@ Points: 100
 ## Challenge
 
 My dog-sitter's brother made this website but I can't get in; can you help?
+
 login.mars.picoctf.net
 
 ## Writeup
