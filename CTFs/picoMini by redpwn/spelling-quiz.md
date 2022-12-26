@@ -1,4 +1,4 @@
-# picoMini by redpwn - spelling-quiz (Web Exploitation)
+# picoMini by redpwn - spelling-quiz (Cryptography)
 
 ## Description
 
