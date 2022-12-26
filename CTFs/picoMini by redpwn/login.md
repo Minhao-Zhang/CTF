@@ -1,15 +1,11 @@
-# picoMini by redpwn - login
-
-Type: Web Exploitation
-Points: 100
-
-## Challenge
+# picoMini by redpwn - login (Web Exploitation)
+## Description 
 
 My dog-sitter's brother made this website but I can't get in; can you help?
 
 login.mars.picoctf.net
 
-## Writeup
+## Solution
 
 Going onto the website, we can see a simple login page. I tried to type random things, an alert box popped up with the message "Incorrect Username".
 
@@ -33,7 +29,7 @@ I then used the developer mode in browser found out that the logic is all contai
 })();
 ```
 
-With the first glance, I see that the third to last line contains the logic of displaying the flag after we got the correct password. The previous lines are just checking the login credentials. However, we do see that the flag is just ```atob(t.p)``` where we know that ```t.p``` is ```cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ```. The ```atob``` function just parse base64 to ascii and if we do the same, we obtain the flag ```picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}```
+With the first glance, I see that the third to last line contains the logic of displaying the flag after we got the correct password. The previous lines are just checking the login credentials. However, we do see that the flag is just ```atob(t.p)``` where we know that ```t.p``` is ```cGljb0NURns1M3J2M3JfNTNydjNyXzUzcnYzcl81M3J2M3JfNTNydjNyfQ```. The ```atob``` function just parses base64 to ascii and if we do the same, we obtain the flag ```picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}```
 
 ## Flag 
 ```picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}```
