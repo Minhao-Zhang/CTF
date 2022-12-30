@@ -5,6 +5,7 @@
 - [basic-mod1](CTFs/picoCTF%202022/basic-mod1.md)
 - [buffer overflow 0](CTFs/picoCTF%202022/buffer%20overflow%200.md)
 - [credstuff](CTFs/picoCTF%202022/credstuff.md)
+- [CVE-XXXX-XXXX](CTFs/picoCTF%202022/CVE-XXXX-XXXX.md)
 
 ## picoMini by redpwn
 
