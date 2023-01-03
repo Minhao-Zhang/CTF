@@ -11,6 +11,11 @@
 - [file-run2](CTFs/picoCTF%202022/file-run2.md)
 - File types
 - [GDB Test Drive](CTFs/picoCTF%202022/GDB%20Test%20Drive.md)
+- [Includes](CTFs/picoCTF%202022/Includes.md)
+- [Insepct HTML](CTFs/picoCTF%202022/Inspect%20HTML.md)
+- [Local Authority](CTFs/picoCTF%202022/Local%20Authority.md)
+- [Lookey here](CTFs/picoCTF%202022/Lookey%20here.md)
+- [morse-code](CTFs/picoCTF%202022/morse-code.md)
 
 ## picoMini by redpwn
 
