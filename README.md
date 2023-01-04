@@ -16,6 +16,11 @@
 - [Local Authority](CTFs/picoCTF%202022/Local%20Authority.md)
 - [Lookey here](CTFs/picoCTF%202022/Lookey%20here.md)
 - [morse-code](CTFs/picoCTF%202022/morse-code.md)
+- [Packets Primer](CTFs/picoCTF%202022/Packets%20Primer.md)
+- [patchme.py](CTFs/picoCTF%202022/patchme.py.md)
+- [rail-fence](CTFs/picoCTF%202022/rail-fence.md)
+- [Redaction gone wrong](CTFs/picoCTF%202022/Redaction%20gone%20wrong.md)
+- [Safe Opener](CTFs/picoCTF%202022/Safe%20Opener.md)
 
 ## picoMini by redpwn
 
