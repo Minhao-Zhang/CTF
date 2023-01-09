@@ -21,6 +21,13 @@
 - [rail-fence](CTFs/picoCTF%202022/rail-fence.md)
 - [Redaction gone wrong](CTFs/picoCTF%202022/Redaction%20gone%20wrong.md)
 - [Safe Opener](CTFs/picoCTF%202022/Safe%20Opener.md)
+- Search source
+- [Sleuthkit Intro](CTFs/picoCTF%202022/Sleuthkit%20Intro.md)
+- [substitution0](CTFs/picoCTF%202022/substitution0.md)
+- [substitution1](CTFs/picoCTF%202022/substitution1.md)
+- [substitution2](CTFs/picoCTF%202022/substitution2.md)
+- [transposition-trial](CTFs/picoCTF%202022/transposition-trial.md)
+- [unpackme.py](CTFs/picoCTF%202022/unpackme.py.md)
 
 ## picoMini by redpwn
 
