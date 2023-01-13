@@ -28,6 +28,8 @@
 - [substitution2](CTFs/picoCTF%202022/substitution2.md)
 - [transposition-trial](CTFs/picoCTF%202022/transposition-trial.md)
 - [unpackme.py](CTFs/picoCTF%202022/unpackme.py.md)
+- [Vigenere](CTFs/picoCTF%202022/Vigenere.md)
+- [bloat.py](CTFs/picoCTF%202022/bloat.py.md)
 
 ## picoMini by redpwn
 
