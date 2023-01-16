@@ -30,6 +30,8 @@
 - [unpackme.py](CTFs/picoCTF%202022/unpackme.py.md)
 - [Vigenere](CTFs/picoCTF%202022/Vigenere.md)
 - [bloat.py](CTFs/picoCTF%202022/bloat.py.md)
+- buffer overflow 1
+- [Forbidden Path](CTFs/picoCTF%202022/Forbidden%20Paths.md)
 
 ## picoMini by redpwn
 
