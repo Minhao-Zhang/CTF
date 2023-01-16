@@ -32,6 +32,7 @@
 - [bloat.py](CTFs/picoCTF%202022/bloat.py.md)
 - buffer overflow 1
 - [Forbidden Path](CTFs/picoCTF%202022/Forbidden%20Paths.md)
+- [Fresh Java](CTFs/picoCTF%202022/Fresh%20Java.md)
 
 ## picoMini by redpwn
 
