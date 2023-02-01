@@ -37,6 +37,8 @@
 - Roboto Sans
 - [RPS](CTFs/picoCTF%202022/RPS.md)
 - [Secrets](CTFs/picoCTF%202022/Secrets.md)
+- Sleuthkit Apprentice
+- [SQL Direct](CTFs/picoCTF%202022/SQL%20Direct.md)
 
 ## picoMini by redpwn
 
